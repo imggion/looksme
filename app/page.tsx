@@ -558,7 +558,7 @@ export default function NewBentoWaitlist() {
               <form onSubmit={handleTagnameSubmit} className="relative group">
                 <input
                   type="text"
-                  placeholder="bento.me/username"
+                  placeholder="avely.me/username"
                   className="w-full bg-white pl-6 pr-32 py-5 rounded-2xl border-2 border-transparent shadow-[0_8px_30px_rgb(0,0,0,0.04)] text-lg outline-none focus:border-black/5 focus:ring-4 focus:ring-black/5 transition-all placeholder:text-gray-300 font-medium"
                   value={tagname}
                   onChange={(e) => setTagname(e.target.value)}
