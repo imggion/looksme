@@ -522,17 +522,8 @@ export default function NewBentoWaitlist() {
                 <path d="M4 4h7v7H4V4zm0 9h7v7H4v-7zm9-9h7v7h-7V4zm0 9h7v7h-7v-7z" />
               </svg>
             </div>
-            <span className="font-extrabold text-2xl tracking-tight">new bento</span>
+            <span className="font-extrabold text-2xl tracking-tight">Avely</span>
           </motion.div>
-
-          <motion.a
-            initial={{ opacity: 0, x: 20 }}
-            animate={{ opacity: 1, x: 0 }}
-            href="#"
-            className="text-sm font-bold text-gray-600 hover:text-black transition-colors px-6 py-3 rounded-full bg-white/50 hover:bg-white hover:shadow-lg hover:-translate-y-0.5 border border-transparent hover:border-gray-100 duration-300"
-          >
-            Login
-          </motion.a>
         </div>
       </nav>
 
@@ -814,9 +805,9 @@ export default function NewBentoWaitlist() {
                   <path d="M4 4h7v7H4V4zm0 9h7v7H4v-7zm9-9h7v7h-7V4zm0 9h7v7h-7v-7z" />
                 </svg>
               </div>
-              <span className="font-bold text-lg">new bento</span>
+              <span className="font-bold text-lg">Avely</span>
             </div>
-            <p className="text-sm text-gray-500 font-medium">© 2025 new bento. All rights reserved.</p>
+            <p className="text-sm text-gray-500 font-medium">© 2025 Avely. All rights reserved.</p>
             <div className="flex gap-6 text-sm font-semibold text-gray-600">
               <a href="#" className="hover:text-black transition-colors">
                 Privacy
